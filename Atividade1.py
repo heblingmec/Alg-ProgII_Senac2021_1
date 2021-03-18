@@ -22,6 +22,8 @@ lst_qtd   = []
 menu = '''
 
     1 - Escolha o Produto
-    2 - Remover o Produto
+    2 - Remover o Produto suahsiuahsuas
 
 Escolha: '''
+
+bla
